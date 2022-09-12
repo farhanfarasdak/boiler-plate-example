@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "farhanfarasdak",
+    "password": null,
+    "database": "boilerplate-example",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
